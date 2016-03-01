@@ -1,0 +1,3 @@
+app/code/local/MOC/CatalogOptionSortFix/Block/Product/View/Type/Configurable.php
+app/code/local/MOC/CatalogOptionSortFix/etc/config.xml
+app/etc/modules/MOC_CatalogOptionSortFix.xml
