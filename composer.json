@@ -1,0 +1,23 @@
+{
+  "name": "purpleweb/catalogoptionsortfix",
+  "type": "magento-module",
+  "license": "GPL-3.0",
+  "description": "Magento 1.9.1 configurable product attribute sorting",
+  "homepage": "https://github.com/purpleweb/MOC_CatalogOptionSortFix",
+  "require": {
+    "php": ">=5.3",
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  "authors": [
+    {
+      "name": "Antoine Czerwonka",
+      "email": "tonio.cz@gmail.com",
+      "role": "Maintainer"
+    },
+    {
+      "name": "Meogi",
+      "role": "Author",
+      "homepage": "https://magento.stackexchange.com/users/3765/meogi"
+    }
+  ]
+}
